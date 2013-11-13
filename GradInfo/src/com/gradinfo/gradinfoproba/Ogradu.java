@@ -9,7 +9,7 @@ public class Ogradu extends Activity {
 
 	TextView inText;
 	ListView list;
-	String uvod;
+	String uvod,nešt;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
