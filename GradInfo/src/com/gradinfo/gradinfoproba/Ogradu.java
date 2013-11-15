@@ -9,7 +9,6 @@ public class Ogradu extends Activity {
 
 	TextView inText;
 	ListView list;
-	String uvod;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -17,8 +16,7 @@ public class Ogradu extends Activity {
 		setContentView(R.layout.activity_main);
 
 		inText = (TextView) findViewById(R.id.ogradu_txtview_uvod);
-		
-
+	
 		list = (ListView) findViewById(R.id.ogradu_listview_list);
 
 	}
