@@ -32,7 +32,7 @@ public final class R {
         public static final int ogradu_txtview_uvod=0x7f090000;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
+        public static final int city_list_in_n_past=0x7f030000;
     }
     public static final class menu {
         public static final int main=0x7f080000;
