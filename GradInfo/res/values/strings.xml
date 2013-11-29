@@ -20,17 +20,27 @@
 		        Atraktivno ušće rijeke Vuke u Dunav, šetališta uz Dunav i uređene plaže osiguravaju športsko-rekreacijske aktivnosti tijekom cijele godine, 
 		        a posebice u toplom dijelu godine kada je moguće kupanje. 
 		        Na Dunavu i Vuki popularan je ribolov (som, smuđ, šaran, štuka, kečiga).
-		
+				\n
 				U sklopu grada Vukovara nalaze se naselja: 
-				Trpinjska cesta, 
+				
+				Trpinjska cesta,
+			
 				Borovo Naselje, 
+			
 				Mitnica, 
+				
 				Petrova gora, 
+			
 				Sajmište, 
-				Supodernica, 
+				
+				Supodernica,
+				 
 				Lužac, 
+				
 				Centar (stara jezgra grada). 
+				
 				Pod upravom grada Vukovara se nalaze i sela: 
+			
 				Lipovača, Sotin i Jakobovac(naselju pripada Ovčara).   
 		</string>
     <string name="stanovnistvo">			
@@ -221,7 +231,7 @@
 					Drugim riječima, uklonjen je hrvatski dom, kao što su velikosrbi napravili s hrvatskim domovima (i ljudima) 1990-ih, na način da od prostora napravili čistinu (usp. etničko čišćenje).
 					</string>
     <string name="vu_domovinski_rat">	    			
-        			Vukovar u Domovinskom ratu i danas
+        			Vukovar u Domovinskom ratu 
 					\n
 					Osamostaljenjem Hrvatske 1991. godine došlo je do otvorene agresije Srbije na Vukovar i Hrvatsku. 
 					Nakon što je većina srpskog stanovništva (sva srpska djeca) pobjegla iz grada, počela je bitka za Vukovar, u kojoj su hrvatske snage branile grad protiv vojske JNA, 
@@ -245,8 +255,13 @@
     <string-array name="listogradu">
         <item >Položaj i naselja</item>
         <item >Stanovništvo</item>
-        <item >Povijest</item>
-        <item >Unazad</item>
+        <item >Rana povijest i antika</item>
+        <item >Ponovo naseljavanje</item>
+        <item >Znanost i kultura</item>
+        <item >Vukovar pod Jugoslavijom</item>
+        <item >Vukovar u Domovinskom ratu</item>
+        <item >NATRAG</item>
     </string-array>
+    <string name="back">Natrag</string>
 
 </resources>

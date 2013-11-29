@@ -14,13 +14,41 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.gradinfo.gradinfoproba.Ogradu"
+            android:name="com.gradinfo.gradinfohistory.Ogradu"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.Locations"
+            android:label="Položaj i naselja" >
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.Population"
+            android:label="Stanovništvo" >
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.EarlyHistory"
+            android:label="Rana povijest i antika" >
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.ReColonization"
+            android:label="Ponovo naseljavanje" >
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.ScienceCulture"
+            android:label="Znanost i kultura" >
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.VukovarYugoslavija"
+            android:label="Vukovar pod Jugoslavijom" >
+        </activity>
+        <activity
+            android:name="com.gradinfo.gradinfohistory.VukovarWar"
+            android:label="Vukovar u Domovinskom ratu" >
         </activity>
     </application>
 

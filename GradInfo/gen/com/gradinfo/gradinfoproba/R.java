@@ -27,12 +27,28 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f090002;
+        public static final int action_settings=0x7f09000b;
+        public static final int early_h_btn_back=0x7f090003;
+        public static final int early_history_txt=0x7f090002;
+        public static final int locations_btn_back=0x7f090005;
         public static final int ogradu_listview_list=0x7f090001;
         public static final int ogradu_txtview_uvod=0x7f090000;
+        public static final int population_btn_back=0x7f090006;
+        public static final int re_colonization_btn_back=0x7f090007;
+        public static final int science_culture_btn_back=0x7f090008;
+        public static final int textView1=0x7f090004;
+        public static final int vukovar_war_btn_back=0x7f09000a;
+        public static final int vukovar_yugo_btn_back=0x7f090009;
     }
     public static final class layout {
         public static final int city_list_in_n_past=0x7f030000;
+        public static final int early_history=0x7f030001;
+        public static final int locations=0x7f030002;
+        public static final int population=0x7f030003;
+        public static final int re_colonization=0x7f030004;
+        public static final int science_culture=0x7f030005;
+        public static final int vukovar_jugoslavia=0x7f030006;
+        public static final int vukovar_war=0x7f030007;
     }
     public static final class menu {
         public static final int main=0x7f080000;
@@ -40,6 +56,7 @@ public final class R {
     public static final class string {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
+        public static final int back=0x7f05000b;
         public static final int hello_world=0x7f050002;
         public static final int polozanaselja=0x7f050004;
         public static final int ponovo_naseljavanje=0x7f050007;
